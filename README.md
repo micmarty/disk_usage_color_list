@@ -43,3 +43,5 @@
     ```
 5. Done! Try execute my script with your alias ```duc```
 
+## Thanks to Daniel Millis for Awk colors library
+https://github.com/e36freak/awk-libs/blob/master/colors.awk
