@@ -1,5 +1,11 @@
 # disk_usage_color_list
 
+## What it does?
+
+It just lists every visible folder in current directory and disk space it uses.
+
+## Demo
+
 [![asciicast](https://asciinema.org/a/MWzYLmZ1k56i6WL2f5UvbaVsg.png)](https://asciinema.org/a/MWzYLmZ1k56i6WL2f5UvbaVsg)
 
 ## How to setup with Bash, Zsh or Fish
